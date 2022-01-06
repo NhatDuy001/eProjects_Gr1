@@ -16,14 +16,13 @@ Project title: Quicks snack
      -Ho Thang Duc  |  ID-Student1339032
 
 ============================
+eProject report link at: 
 
 github report link:   
 
 eProject published at  https://nhatduy001.github.io/eProjects_Gr1/Index.html
 
-eProject report link at: 
 ============================
 
-Thank you for spending your time to look at our work. Happy Holidays
 
 
