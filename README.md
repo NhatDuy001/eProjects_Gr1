@@ -19,7 +19,7 @@ Project title: Quicks snack
 
 github report link:
 
-eProject published at  https://nhatduy001.github.io/eProjects_Gr1/
+eProject published at  https://nhatduy001.github.io/eProjects_Gr1/Index.html
 
 eProject report link at: 
 ============================
