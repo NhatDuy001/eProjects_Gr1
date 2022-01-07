@@ -8,7 +8,7 @@ Project title: Quicks snack
 
 ========> Group 1 <=========
 
-3 collaborators:
+4 collaborators:
 
      -Tran Nhat Duy  |  ID-Student1339034
      -Truong Viet Hoang |  ID-Student1339266
